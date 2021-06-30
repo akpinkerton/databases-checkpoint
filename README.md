@@ -19,10 +19,10 @@ Query: ...
 Results: ...
 
 ## To Begin:
-- [ ] Create a database called vacations
-- [ ] Create a table called destinations
+- [X] Create a database called vacations
+- [X] Create a table called destinations
       - populate it with each location's id, name, average_temp, has_beaches, has_mountains, and cost_of_flight
-- [ ] Create a table called airlines
+- [X] Create a table called airlines
       - populate it with each airline's name and id.
 
 ## Challenges:
@@ -43,46 +43,6 @@ Results: ...
 - [ ] All airlines that fly to New Zealand.
 - [ ] All airlines that do NOT fly to Scotland.
 - [ ] All of the data for all vacation destinations.
-
-#### Vacation Destination Data:
-
-[
-    {
-        name: "Thailand",
-        average_temp: 82,
-        cost_of_flight: 765,
-        has_beach: true,
-        has_mountains: true
-    },
-    {
-        name: "Minnesota",
-        average_temp: 41,
-        cost_of_flight: 235,
-        has_beach: false,
-        has_mountains: false
-    },
-    {
-        name: "New Zealand",
-        average_temp: 66,
-        cost_of_flight: 433,
-        has_beach: true,
-        has_mountains: true
-    },
-    {
-        name: "England",
-        average_temp: 45,
-        cost_of_flight: 290,
-        has_beach: false,
-        has_mountains: false
-    },
-    {
-        name: "Tristan da Cunha",
-        average_temp: 59,
-        cost_of_flight: 1304,
-        has_beach: true,
-        has_mountains: true,
-    }
-]
 
 #### Airline Data:
 
