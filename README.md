@@ -64,14 +64,13 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/08r.png)
 
-- [ ] 9. When the data set was written, the author mistakently wrote "England" when they meant "Scotland". Update that entry in the database.
+- [X] 9. When the data set was written, the author mistakently wrote "England" when they meant "Scotland". Update that entry in the database.
   * **Query:** <br>
   ![Query](../assets/09q.png)
   * **Results:** <br>
   ![Results](../assets/09r.png)
 
-- [ ] 10. Create a join table that joins the airlines and the destinations tables
-    * by correlating which airlines fly to which destinations.
+- [ ] 10. Create a join table that joins the airlines and the destinations tables by correlating which airlines fly to which destinations.
   * **Query:** <br>
   ![Query](../assets/10q.png)
   * **Results:** <br>
