@@ -76,7 +76,7 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/10r.png)
 
-- [ ] 11. All airlines that fly to New Zealand.
+- [X] 11. All airlines that fly to New Zealand.
   * **Query:** <br>
   ![Query](../assets/11q.png)
   * **Results:** <br>
