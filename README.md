@@ -16,7 +16,7 @@ Complete each of the following challenges, and take a screenshot of each query i
       - populate it with each airline's name and id.
 
 ## Challenges:
-- [ ] 1. All of the vacation destinations.
+1. All of the vacation destinations.
       * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
       * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
