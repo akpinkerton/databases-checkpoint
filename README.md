@@ -16,59 +16,81 @@ Complete each of the following challenges, and take a screenshot of each query i
       - populate it with each airline's name and id.
 
 ## Challenges:
-- [ ] 1. All of the vacation destinations.
+- [X] 1. All of the vacation destinations.
   * **Query:** <br>
   ![Query](../assets/01q.png)
-  * **Results:**
+  * **Results:** <br>
   ![Results](../assets/01r.png)
 
 - [ ] 2. All destinations where you can swim at the beach.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 3. All destinations where the average temperature is over 60 degrees.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 4. All destinations where you can swim at the beach AND go to the mountains.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 5. All destinations where flights cost less than $500 and you can hike in the mountains.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 6. Add an entry for The Bahamas,
     * the average temperature is 78,
     * it has beaches but no mountains,
     * the flights cost $345.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 7. Update New Zealand's entry for flight cost to $1000.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 8. Please delete Minnesota from the database.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 9. When the data set was written, the author mistakently wrote "England" when they meant "Scotland". Update that entry in the database.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 10. Create a join table that joins the airlines and the destinations tables
     * by correlating which airlines fly to which destinations.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 11. All airlines that fly to New Zealand.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 12. All airlines that do NOT fly to Scotland.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * **Query:** <br>
+  ![Query](../assets/01q.png)
+  * **Results:** <br>
+  ![Results](../assets/01r.png)
 
 - [ ] 13. All of the data for all vacation destinations.
 
