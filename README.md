@@ -52,7 +52,7 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/06r.png)
 
-- [ ] 7. Update New Zealand's entry for flight cost to $1000.
+- [X] 7. Update New Zealand's entry for flight cost to $1000.
   * **Query:** <br>
   ![Query](../assets/07q.png)
   * **Results:** <br>
