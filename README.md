@@ -70,7 +70,7 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/09r.png)
 
-- [ ] 10. Create a join table that joins the airlines and the destinations tables by correlating which airlines fly to which destinations.
+- [X] 10. Create a join table that joins the airlines and the destinations tables by correlating which airlines fly to which destinations.
   * **Query:** <br>
   ![Query](../assets/10q.png)
   * **Results:** <br>
@@ -94,23 +94,3 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/13r.png)
 
-#### Airline Data:
-
-[
-  {
-    name: "Spirit",
-    destinations_flown_to: ["New Zealand", "Scotland"]
-  },
-  {
-    name: "Lufthansa",
-    destinations_flown_to: ["Tristan da Cunha", "Scotland", "Thailand"]
-  },
-  {
-    name: "Delta",
-    destinations_flown_to: ["Thailand", "Minnesota", "England", "Scotland"]
-  },
-  {
-    name: "Southwest"
-    destinations_flown_to: ["New Zealeand", "Tristan de Cunha", "Minnesota"]
-  }
-]# databases-checkpoint
