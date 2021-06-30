@@ -1,6 +1,6 @@
--- 4. All destinations where you can swim at the beach AND go to the mountains.
+-- 5. All destinations where flights cost less than $500 and you can hike in the mountains.
 
-SELECT * FROM destinations WHERE has_beaches = true AND has_mountains = true;
+SELECT * FROM destinations WHERE cost_of_flight < 500 AND has_mountains = true;
 
--- docker cp Desktop/db-chkpt/04-beach-and-mtns.sql fc00c4c35931:/tmp/04-beach-and-mtns.sql
--- \i /tmp/04-beach-and-mtns.sql
+-- docker cp Desktop/db-chkpt/05-cheapFlts-hike.sql fc00c4c35931:/tmp/05-cheapFlts-hike.sql
+-- \i /tmp/05-cheapFlts-hike.sql

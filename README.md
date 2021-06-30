@@ -40,7 +40,7 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/04r.png)
 
-- [ ] 5. All destinations where flights cost less than $500 and you can hike in the mountains.
+- [X] 5. All destinations where flights cost less than $500 and you can hike in the mountains.
   * **Query:** <br>
   ![Query](../assets/05q.png)
   * **Results:** <br>
@@ -97,7 +97,7 @@ Complete each of the following challenges, and take a screenshot of each query i
   ![Query](../assets/13q.png)
   * **Results:** <br>
   ![Results](../assets/13r.png)
-  
+
 #### Airline Data:
 
 [
