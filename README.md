@@ -17,8 +17,8 @@ Complete each of the following challenges, and take a screenshot of each query i
 
 ## Challenges:
 - [ ] 1. All of the vacation destinations.
-  * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
-  * Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+  * Query: ![Query](../assets/01q.png)
+  * Results: ![Results](../assets/01r.png)
 
 - [ ] 2. All destinations where you can swim at the beach.
   * Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
