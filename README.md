@@ -29,14 +29,17 @@ Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 - [ ] 4. All destinations where you can swim at the beach AND go to the mountains.
 - [ ] 5. All destinations where flights cost less than $500 and you can hike in the mountains.
 - [ ] 6. Add an entry for The Bahamas,
-      - the average temperature is 78,
-      - it has beaches but no mountains,
-      - the flights cost $345.
+- the average temperature is 78,
+- it has beaches but no mountains,
+- the flights cost $345
+
 - [ ] 7. Update New Zealand's entry for flight cost to $1000.
 - [ ] 8. Please delete Minnesota from the database.
 - [ ] 9. When the data set was written, the author mistakently wrote "England" when they meant "Scotland". Update that entry in the database.
+
 - [ ] 10. Create a join table that joins the airlines and the destinations tables
-      - by correlating which airlines fly to which destinations.
+- by correlating which airlines fly to which destinations.
+
 - [ ] 11. All airlines that fly to New Zealand.
 - [ ] 12. All airlines that do NOT fly to Scotland.
 - [ ] 13. All of the data for all vacation destinations.
