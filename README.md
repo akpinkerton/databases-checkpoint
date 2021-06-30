@@ -58,7 +58,7 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/07r.png)
 
-- [ ] 8. Please delete Minnesota from the database.
+- [X] 8. Please delete Minnesota from the database.
   * **Query:** <br>
   ![Query](../assets/08q.png)
   * **Results:** <br>
