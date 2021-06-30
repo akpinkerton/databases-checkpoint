@@ -46,10 +46,7 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/05r.png)
 
-- [ ] 6. Add an entry for The Bahamas,
-    * the average temperature is 78,
-    * it has beaches but no mountains,
-    * the flights cost $345.
+- [X] 6. Add an entry for The Bahamas, the average temperature is 78, it has beaches but no mountains, the flights cost $345.
   * **Query:** <br>
   ![Query](../assets/06q.png)
   * **Results:** <br>
