@@ -22,17 +22,17 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/01r.png)
 
-- [ ] 2. All destinations where you can swim at the beach.
+- [X] 2. All destinations where you can swim at the beach.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/02q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/02r.png)
 
-- [ ] 3. All destinations where the average temperature is over 60 degrees.
+- [X] 3. All destinations where the average temperature is over 60 degrees.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/03q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/03r.png)
 
 - [ ] 4. All destinations where you can swim at the beach AND go to the mountains.
   * **Query:** <br>
