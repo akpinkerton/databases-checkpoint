@@ -34,66 +34,70 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/03r.png)
 
-- [ ] 4. All destinations where you can swim at the beach AND go to the mountains.
+- [X] 4. All destinations where you can swim at the beach AND go to the mountains.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/04q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/04r.png)
 
 - [ ] 5. All destinations where flights cost less than $500 and you can hike in the mountains.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/05q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/05r.png)
 
 - [ ] 6. Add an entry for The Bahamas,
     * the average temperature is 78,
     * it has beaches but no mountains,
     * the flights cost $345.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/06q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/06r.png)
 
 - [ ] 7. Update New Zealand's entry for flight cost to $1000.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/07q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/07r.png)
 
 - [ ] 8. Please delete Minnesota from the database.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/08q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/08r.png)
 
 - [ ] 9. When the data set was written, the author mistakently wrote "England" when they meant "Scotland". Update that entry in the database.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/09q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/09r.png)
 
 - [ ] 10. Create a join table that joins the airlines and the destinations tables
     * by correlating which airlines fly to which destinations.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/10q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/10r.png)
 
 - [ ] 11. All airlines that fly to New Zealand.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/11q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/11r.png)
 
 - [ ] 12. All airlines that do NOT fly to Scotland.
   * **Query:** <br>
-  ![Query](../assets/01q.png)
+  ![Query](../assets/12q.png)
   * **Results:** <br>
-  ![Results](../assets/01r.png)
+  ![Results](../assets/12r.png)
 
 - [ ] 13. All of the data for all vacation destinations.
-
+  * **Query:** <br>
+  ![Query](../assets/13q.png)
+  * **Results:** <br>
+  ![Results](../assets/13r.png)
+  
 #### Airline Data:
 
 [

@@ -1,3 +1,5 @@
+-- docker cp Desktop/db-chkpt/00-initiation.sql fc00c4c35931:/tmp/00-initiation.sql
+
 
 CREATE TABLE destinations (
        id serial,
