@@ -82,7 +82,7 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/11r.png)
 
-- [ ] 12. All airlines that do NOT fly to Scotland.
+- [X] 12. All airlines that do NOT fly to Scotland.
   * **Query:** <br>
   ![Query](../assets/12q.png)
   * **Results:** <br>
