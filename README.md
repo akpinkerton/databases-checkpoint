@@ -88,7 +88,7 @@ Complete each of the following challenges, and take a screenshot of each query i
   * **Results:** <br>
   ![Results](../assets/12r.png)
 
-- [ ] 13. All of the data for all vacation destinations.
+- [X] 13. All of the data for all vacation destinations.
   * **Query:** <br>
   ![Query](../assets/13q.png)
   * **Results:** <br>
